@@ -1,4 +1,8 @@
 # ConcertTickets
+Check out the running project on Heroku: https://team17-concerttickets.herokuapp.com/
+- Sign in with one of the following usernames: Ariel, Alfonso, Austin, or Sean
+- Sign in with the password: password
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
